@@ -1,1 +1,3 @@
 print('Hææ')
+
+print("bless")
